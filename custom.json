@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "2048.info"
+        "2048.info",
       ]
     }
   ]
